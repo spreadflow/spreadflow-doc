@@ -2,6 +2,10 @@
 *.pyc
 *.pyo
 
+# SpreadFlow
+*.confc
+*.confo
+
 # Twisted
 /_trial_temp
 /twistd.log
