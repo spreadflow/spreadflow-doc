@@ -1,13 +1,6 @@
 spreadflow_observer_fs package
 ==============================
 
-Subpackages
------------
-
-.. toctree::
-
-    spreadflow_observer_fs.test
-
 Submodules
 ----------
 

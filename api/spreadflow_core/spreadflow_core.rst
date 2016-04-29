@@ -7,19 +7,19 @@ Subpackages
 .. toctree::
 
     spreadflow_core.scripts
-    spreadflow_core.test
 
 Submodules
 ----------
 
 .. toctree::
 
+   spreadflow_core.client
    spreadflow_core.config
    spreadflow_core.decorator
    spreadflow_core.flow
    spreadflow_core.graph
    spreadflow_core.jobqueue
-   spreadflow_core.processor
+   spreadflow_core.proc
    spreadflow_core.scheduler
    spreadflow_core.script
    spreadflow_core.service
