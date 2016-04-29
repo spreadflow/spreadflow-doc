@@ -11,8 +11,14 @@ setup(
     install_requires=[
         'Sphinx',
         'SpreadFlowCore',
+        'SpreadFlowDelta',
+        'SpreadFlowExiftool',
+        'SpreadFlowJsonLD',
+        'SpreadFlowMongoDB',
         'SpreadFlowObserverFS',
-        'SpreadFlowProcExiftool',
+        'SpreadFlowPDF',
+        'SpreadFlowThumbor',
+        'SpreadFlowXslt',
         'sphinx_rtd_theme'
     ],
     zip_safe=False,

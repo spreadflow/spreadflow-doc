@@ -1,0 +1,9 @@
+-e git+https://github.com/spreadflow/spreadflow-core#egg=SpreadFlowCore
+-e git+https://github.com/spreadflow/spreadflow-delta#egg=SpreadFlowDelta
+-e git+https://github.com/spreadflow/spreadflow-exiftool#egg=SpreadFlowExiftool
+-e git+https://github.com/spreadflow/spreadflow-jsonld#egg=SpreadFlowJsonLD
+-e git+https://github.com/spreadflow/spreadflow-mongodb#egg=SpreadFlowMongoDB
+-e git+https://github.com/spreadflow/spreadflow-observer-fs#egg=SpreadFlowObserverFS
+-e git+https://github.com/spreadflow/spreadflow-pdf#egg=SpreadFlowPDF
+-e git+https://github.com/spreadflow/spreadflow-thumbor#egg=SpreadFlowThumbor
+-e git+https://github.com/spreadflow/spreadflow-xslt#egg=SpreadFlowXslt
