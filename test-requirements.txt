@@ -1,3 +1,4 @@
+-e src/spreadflow-confviz
 -e src/spreadflow-core
 -e src/spreadflow-delta
 -e src/spreadflow-exiftool

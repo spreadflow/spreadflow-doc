@@ -28,3 +28,6 @@
 [submodule "src/spreadflow-xslt"]
 	path = src/spreadflow-xslt
 	url = https://github.com/spreadflow/spreadflow-xslt
+[submodule "src/spreadflow-confviz"]
+	path = src/spreadflow-confviz
+	url = https://github.com/spreadflow/spreadflow-confviz
