@@ -6,7 +6,6 @@ Submodules
 
 .. toctree::
 
-   spreadflow_core.scripts.spreadflow_confviz
    spreadflow_core.scripts.spreadflow_twistd
 
 Module contents

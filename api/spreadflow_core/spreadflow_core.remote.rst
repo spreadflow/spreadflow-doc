@@ -1,7 +1,7 @@
-spreadflow_core.client module
+spreadflow_core.remote module
 =============================
 
-.. automodule:: spreadflow_core.client
+.. automodule:: spreadflow_core.remote
     :members:
     :undoc-members:
     :show-inheritance:

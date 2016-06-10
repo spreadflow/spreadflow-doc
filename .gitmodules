@@ -1,0 +1,30 @@
+[submodule "src/spreadflow-core"]
+	path = src/spreadflow-core
+	url = https://github.com/spreadflow/spreadflow-core
+[submodule "src/spreadflow-delta"]
+	path = src/spreadflow-delta
+	url = https://github.com/spreadflow/spreadflow-delta
+[submodule "src/spreadflow-exiftool"]
+	path = src/spreadflow-exiftool
+	url = https://github.com/spreadflow/spreadflow-exiftool
+[submodule "src/spreadflow-format-bson"]
+	path = src/spreadflow-format-bson
+	url = https://github.com/spreadflow/spreadflow-format-bson
+[submodule "src/spreadflow-jsonld"]
+	path = src/spreadflow-jsonld
+	url = https://github.com/spreadflow/spreadflow-jsonld
+[submodule "src/spreadflow-mongodb"]
+	path = src/spreadflow-mongodb
+	url = https://github.com/spreadflow/spreadflow-mongodb
+[submodule "src/spreadflow-observer-fs"]
+	path = src/spreadflow-observer-fs
+	url = https://github.com/spreadflow/spreadflow-observer-fs
+[submodule "src/spreadflow-pdf"]
+	path = src/spreadflow-pdf
+	url = https://github.com/spreadflow/spreadflow-pdf
+[submodule "src/spreadflow-thumbor"]
+	path = src/spreadflow-thumbor
+	url = https://github.com/spreadflow/spreadflow-thumbor
+[submodule "src/spreadflow-xslt"]
+	path = src/spreadflow-xslt
+	url = https://github.com/spreadflow/spreadflow-xslt
