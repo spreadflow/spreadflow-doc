@@ -10,4 +10,7 @@ install:
   - pip install -r test-requirements.txt
   - pip install -e .
 script:
-  - make
+  - spreadflow-twistd -n -o -c tutorial/001-observing-directories/spreadflow.conf
+  - spreadflow-twistd -n -o -c tutorial/002-duplicate-and-filter/spreadflow.conf
+  - spreadflow-twistd -n -o -c tutorial/003-loadfile-computed-value/spreadflow.conf
+  - spreadflow-twistd -n -o -c tutorial/004-mapreduce/spreadflow.conf
