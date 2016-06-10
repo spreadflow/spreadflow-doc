@@ -1,5 +1,5 @@
--e src/spreadflow-confviz
 -e src/spreadflow-core
+-e src/spreadflow-confviz
 -e src/spreadflow-delta
 -e src/spreadflow-exiftool
 -e src/spreadflow-format-bson
