@@ -6,7 +6,6 @@ Submodules
 
 .. toctree::
 
-   spreadflow_core.dsl.context
    spreadflow_core.dsl.parser
    spreadflow_core.dsl.stream
    spreadflow_core.dsl.tokens
